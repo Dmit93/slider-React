@@ -1,1 +1,1 @@
-# Slider Reach
+# Slider React
